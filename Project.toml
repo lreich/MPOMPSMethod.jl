@@ -1,0 +1,9 @@
+name = "MPOMPSMethod"
+uuid = "d0fd1b50-f877-43de-8a74-44ba4516019b"
+authors = ["Lukas Reich <lukasreich@online.de>"]
+version = "0.1.0"
+
+[deps]
+ITensorMPS = "0d1a4710-d33b-49a5-8f18-73bdf49b47e2"
+ITensors = "9136182c-28ba-11e9-034c-db9fb085ebd5"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
