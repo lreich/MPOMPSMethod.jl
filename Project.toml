@@ -4,6 +4,9 @@ authors = ["Lukas Reich <lukasreich@online.de>"]
 version = "0.1.0"
 
 [deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 ITensorMPS = "0d1a4710-d33b-49a5-8f18-73bdf49b47e2"
 ITensors = "9136182c-28ba-11e9-034c-db9fb085ebd5"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
